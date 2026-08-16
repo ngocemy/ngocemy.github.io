@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Max Planck Institute of Immunobiology & Epigenetics</p>
     <p>51 Stübeweg</p>
     <p>Freiburg im Breisgau, Germany</p>
 
