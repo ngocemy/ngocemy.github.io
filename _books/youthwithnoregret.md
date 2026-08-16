@@ -2,7 +2,7 @@
 layout: book-review
 title: Tuổi trẻ không hối tiếc
 author: Huyen Chip
-cover: 
+cover: /assets/img/book_covers/youth.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9786045652251 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: non-fiction
