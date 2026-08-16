@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ph.D in Genome Sciences.</a>. “Nothing in life is to be feared, it is only to be understood.” Marie Curie.
 
 profile:
   align: right
@@ -27,7 +27,12 @@ latest_posts:
 ---
 
 I am a postdoctoral researcher, a molecular biologist.
+
 I am working at the Max Planck Institute of Immunobiology and Epiegenetics in the Genome Biology department.
+
 I am passionate about curious biological phenomena and cutting-edge molecular techniques to understand genome structure and function.
-In my free time, I enjoy hiking, exploring nature, baking, and gardening. I also enjoy learning about whatever interests me, such as creating this website.
+
+In my free time, I enjoy hiking, exploring nature, baking, and gardening. 
+
+I also enjoy learning about whatever interests me, such as creating this website.
 
