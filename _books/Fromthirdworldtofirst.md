@@ -2,7 +2,7 @@
 layout: book-review
 title: From third world to first
 author: Lee Kuan Yew
-cover: /assets/img/book_covers/Fromthirdworldtofirst.jpg
+cover: /assets/img/book_covers/fromthirdworldtofirst.jpg
 olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9786045652251 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: non-fiction
