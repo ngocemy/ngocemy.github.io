@@ -15,8 +15,8 @@ Every two years, the Transcription and Chromatin meeting takes place in the beau
     <li>Prepare a short pitch: Develop a 1–2 minute explanation of my project for conversations with researchers who may not work directly in my area.</li>
     <li>Identify people I want to meet: Look through the programme and speaker list and identify researchers whose work connects to mine or whose expertise could give me a different perspective.</li>
     <li>Get feedback: Use conversations at the meeting as an opportunity to get honest feedback and alternative interpretations of my results.</li>
-    <li>Reflect afterwards: After the conference, review what I learned and identify ideas that could be incorporated into my research or future experiments.</li>
     <li>Take notes on ideas: Keep track of interesting questions, techniques, papers, and experimental ideas that come up during the meeting.</li>
+    <li>Reflect afterwards: After the conference, review what I learned and identify ideas that could be incorporated into my research or future experiments.</li>
 </ul>
 
 #### Interesting facts about this conference
@@ -26,8 +26,6 @@ Every two years, the Transcription and Chromatin meeting takes place in the beau
 - The meeting is held at the Advanced Training Centre (ATC), the iconic double-helix-shaped building at EMBL. The name itself can be a little confusing, since ATC might sound like something related to air traffic control rather than a place dedicated to scientific training and exchange.
 
 ![EMBL Advanced Training Centre]({{ '/assets/img/atc.jpg' | relative_url }})
-
-![EMBL Advanced Training Centre](assets/img/atc.jpg)
 
 
 > A quote from the conference — coming soon...
