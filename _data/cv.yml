@@ -80,18 +80,18 @@ cv:
         end_date: 06-2021
         highlights:
           - Optogenetic Control of Condensin in Drosophila Embryos using iLEXY
-          - Computational analysis of Hi-C dataset [to study the role of insulators during development](https://www.science.org/doi/10.1126/sciadv.ade1085)
+          - "Computational analysis of Hi-C dataset [to study the role of insulators during development](https://www.science.org/doi/10.1126/sciadv.ade1085)"
 
       - company: Institut Curie
         position: Master (M2) thesis
         location: Paris, France
-        start_date: 01-2021
-        end_date: 06-2021
-        highlights:
-          - Supervised by Dr. Nicolas Manel.
-          - [Analysis by ATAC-seq and ChIP-seq of a new virus detection mechanism](https://doi.org/10.1016/j.cell.2025.05.008)
-          - Nuclear cGAS, accessibility, chromatin, centromere, virus detection
-          - Bioinformatics
+      start_date: 01-2021
+      end_date: 06-2021
+      highlights:
+        - Supervised by Dr. Nicolas Manel.
+        - "[Analysis by ATAC-seq and ChIP-seq of a new virus detection mechanism](https://doi.org/10.1016/j.cell.2025.05.008)"
+        - Nuclear cGAS, accessibility, chromatin, centromere, virus detection
+        - Bioinformatics
         
       - company: Institut Pasteur
         position: Master (M1) thesis
@@ -110,7 +110,7 @@ cv:
         end_date: 07-2019
         highlights:
           - Supervised by Dr. Vera Pancaldi.
-          - Study chromatin changes in differentiation of monocytes into macrophages to understand macrophage polarization in the tumor microenvironment. Pariticipate in package development. [Published work at ](https://doi.org/10.1093/nar/gkaa159).
+          - Study chromatin changes in differentiation of monocytes into macrophages to understand macrophage polarization in the tumor microenvironment. Pariticipate in package development. "[Published work at ](https://doi.org/10.1093/nar/gkaa159)."
           - Bioinformatics
 
 
