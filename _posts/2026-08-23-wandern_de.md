@@ -15,6 +15,8 @@ Ich wandere sehr gern im Schwarzwald. Im Sommer ist es dort wunderschön. Wir ha
 Ich möchte über das Wandern schreiben, weil ich die Erinnerungen bewahren möchte.
 
 ## Wandern auf dem Feldberg im August 2026
+
+
 Der Feldberg ist der höchste Gipfel des Schwarzwaldes. 
 Vom Gipfel bietet sich ein weiter, offener Blick über die gesamte Region. 
 Der Wanderweg führt durch den dichten Wald mit seinen vielen Bäumen und felsigen Abschnitten, ist aber dennoch gut begehbar. 
@@ -23,7 +25,11 @@ Die 15 Kilometer lange Wanderung erreichten wir nach vier Stunden.
 Eine besondere Überraschung unterwegs war der Feldsee, ein wunderschöner, versteckt im Wald gelegener See. 
 Unsere Wanderung war voller Freude und die Landschaft wie aus einem Traum. 
 Zum Abschluss genossen wir ein erfrischendes Getränk am Titisee.
+
+
 Viele der Fotos wurden von meinem fantastischen Freund Shyamu aufgenommen.
+
+
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/posts/BF_9.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
