@@ -22,164 +22,150 @@ cv:
       - institution: University of Göttingen
         location: Göttingen, Germany
         url: https://www.uni-goettingen.de/en/1.html
-        area: Biology
+        area: Molecular Biology
         studyType: PhD
-        start_date: 2022
-        end_date: 2025
+        start_date: 01-2022
+        end_date: 02-2026
         score: ""
         courses: "Regulation of enhancer-promoter interactions during cellular differentiation"
         highlights:
-          - 3D genome.
-          - Epigenetics.
+          - 3D genome, epigenetics, transcription, differentiation.
+          - I developed an optogenetic system to perturb transcription factors to study their role in genome organization and gene regulation during erythropoiesis.
+          - Supervised by Dr. A. Marieke Oudelaar.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: École Normale Supérieure de Paris
+        location: Paris, France
+        area: Life Sciences
+        studyType: Master diploma (M1, M2)
+        start_date: 2019
+        end_date: 2021
         highlights:
-          - Description 1.
-          - Description 2.
+          - M1 in Life Sciences. 
+          - M2 in Bioinformatics. 
+          - IMaLiS Master Scholarship (by QLIFE & ENS)
+      
+      - institution: University of Science and Technology of Hanoi (USTH), Vietnam
+        location: Hanoi, Vietnam
+        area: Biotechnology
+        studyType: Bachelor diploma
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - Received the highest GPA in the program
+          - Received full scholarships and best honor for excellent students
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Max Planck Institute of Immunobiology & Epigenetics
+        position: Postdoctoral researcher
+        location: Freiburg, Germany
+        start_date: 2026
+        end_date: 
+        summary: A short-term research position following my PhD.
         highlights:
-          - Relativity
-          - Description 2.
+          - Transcription factors
+          - Generated high-resolution 3D genome maps across differentiation stages.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Max Planck Institute for Multidisciplinary Sciences
+        position: Ph.D candidate
+        location: Göttingen, Germany
+        start_date: 2022
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - Boehringer Ingelheim Fonds (BIF) PhD fellowship
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: European Molecular Biology Laboratory (EMBL)
+        position: Visiting scholar
+        location: Heidelberg, Germany
+        start_date: 12-2021
+        end_date: 06-2021
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Optogenetic Control of Condensin in Drosophila Embryos using iLEXY
+          - Computational analysis of Hi-C dataset [to study the role of insulators during development](https://www.science.org/doi/10.1126/sciadv.ade1085)
+
+      - company: Institut Curie
+        position: Master (M2) thesis
+        location: Paris, France
+        start_date: 01-2021
+        end_date: 06-2021
+        highlights:
+          - Supervised by Dr. Nicolas Manel.
+          - [Analysis by ATAC-seq and ChIP-seq of a new virus detection mechanism](https://doi.org/10.1016/j.cell.2025.05.008)
+          - Nuclear cGAS, accessibility, chromatin, centromere, virus detection
+          - Bioinformatics
+        
+      - company: Institut Pasteur
+        position: Master (M1) thesis
+        location: Paris, France
+        start_date: 02-2020
+        end_date: 07-2020
+        highlights:
+          - Supervised by Dr. Romain Koszul.
+          - Spatial Regulation of HBV integration in hepatocarcinoma cancer
+          - Bioinformatics
+
+      - company: Centre de Recherche en Cancérologie de Toulouse (CRCT)
+        position: Bachelor thesis
+        location: Toulouse, France
+        start_date: 04-2019
+        end_date: 07-2019
+        highlights:
+          - Supervised by Dr. Vera Pancaldi.
+          - Study chromatin changes in differentiation of monocytes into macrophages to understand macrophage polarization in the tumor microenvironment. Pariticipate in package development. [Published work at ](https://doi.org/10.1093/nar/gkaa159).
+          - Bioinformatics
+
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Boehringer Ingeheim Fonds PhD fellowship
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "Boehringer Ingeheim Fonds"
+        date: 09-2022
+        awarder: Boehringer Ingeheim Fonds
+        url: https://bifonds.de/fellowships-grants/phd-fellowships.html
+        summary: Prestigious PhD fellowship. 3.5 years, including monthly stipend, seminars, travel allowances, individual and personal support, and a worldwide network of fellows and alumni.
 
-      - title: Max Planck Medal
+      - title: IMaLiS Master scholarship
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "QLIFE institute"
+        date: 2019
+        awarder: QLIFE institute - ENS de Paris
+        summary: Awarded for outstanding international students. 2 years, including monthly stipend, travel allowances, partnership with 180 labs in Paris. Associated with Department of Biology, ENS Paris.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+   # Publications:
+   #   - title: Zur Elektrodynamik bewegter Körper
+   #     authors:
+   #       - Albert Einstein
+    #    publisher: Annalen der Physik
+    #    releaseDate: 1905-06-30
+   #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+   #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Biology
+        level: good
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Transcriptomic and epigenomic assays - RNA-seq, TT-seq, ATAC-seq, ChIPmentation, Cut&Tag, MCC (Hi-C variant). Molecular biology techniques -  CRISPR-based gene editing, cloning, Western blot, Flow Cytometry. Cell culture - mouse embryonic stem cell culture, cellular differentiation. Microscopy -  Live imaging,Immunofluorescence"
+      - name: Language, software
+        level: good
+        keywords: "R, Python, Bash, Snakemake, Nexflow, Git, Macro Fiji, Cluster usage (SLURM), FlowJo; Markdown LaTEX, Inkscape, Affinity Designer, basic Photoshop, Image Analysis with ImageJ"
 
     Languages:
-      - name: German
+      - name: Vietnamese
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: French
+        summary: "B2 level, needs practice"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    #Interests:
+    #  - name: Molecular Biology
+    #    icon: fa-solid fa-tag
+    #    keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
+      - name: Dr. A. Marieke Oudelaar
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Please request email.
+
