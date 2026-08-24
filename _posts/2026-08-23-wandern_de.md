@@ -5,7 +5,7 @@ date: 2026-8-23 18:00:00
 description: I practice my German by writing about my hiking trips.
 tags: life Germany
 categories: ge-post
-thumbnail: assets/img/posts/BF_18.jpg
+thumbnail: /assets/img/posts/BF_18.jpg
 images:
   compare: false
   slider: true
