@@ -24,8 +24,8 @@ cv:
         url: https://www.uni-goettingen.de/en/1.html
         area: Molecular Biology
         studyType: PhD
-        start_date: 01-2022
-        end_date: 02-2026
+        start_date: 2022
+        end_date: 2026
         score: ""
         courses: "Regulation of enhancer-promoter interactions during cellular differentiation"
         highlights:
@@ -76,8 +76,8 @@ cv:
       - company: European Molecular Biology Laboratory (EMBL)
         position: Visiting scholar
         location: Heidelberg, Germany
-        start_date: 12-2021
-        end_date: 06-2021
+        start_date: 2021
+        end_date: 2021
         highlights:
           - Optogenetic Control of Condensin in Drosophila Embryos using iLEXY
           - "Computational analysis of Hi-C dataset [to study the role of insulators during development](https://www.science.org/doi/10.1126/sciadv.ade1085)"
@@ -85,8 +85,8 @@ cv:
       - company: Institut Curie
         position: Master (M2) thesis
         location: Paris, France
-        start_date: 01-2021
-        end_date: 06-2021
+        start_date: 2021
+        end_date: 2021
         highlights:
           - Supervised by Dr. Nicolas Manel.
           - "[Analysis by ATAC-seq and ChIP-seq of a new virus detection mechanism](https://doi.org/10.1016/j.cell.2025.05.008)"
@@ -96,8 +96,8 @@ cv:
       - company: Institut Pasteur
         position: Master (M1) thesis
         location: Paris, France
-        start_date: 02-2020
-        end_date: 07-2020
+        start_date: 2020
+        end_date: 2020
         highlights:
           - Supervised by Dr. Romain Koszul.
           - Spatial Regulation of HBV integration in hepatocarcinoma cancer
@@ -106,8 +106,8 @@ cv:
       - company: Centre de Recherche en Cancérologie de Toulouse (CRCT)
         position: Bachelor thesis
         location: Toulouse, France
-        start_date: 04-2019
-        end_date: 07-2019
+        start_date: 2019
+        end_date: 2019
         highlights:
           - Supervised by Dr. Vera Pancaldi.
           - Study chromatin changes in differentiation of monocytes into macrophages to understand macrophage polarization in the tumor microenvironment. Pariticipate in package development. "[Published work at ](https://doi.org/10.1093/nar/gkaa159)."
@@ -118,7 +118,7 @@ cv:
       - title: Boehringer Ingeheim Fonds PhD fellowship
         authors:
           - "Boehringer Ingeheim Fonds"
-        date: 09-2022
+        date: 2022
         awarder: Boehringer Ingeheim Fonds
         url: https://bifonds.de/fellowships-grants/phd-fellowships.html
         summary: Prestigious PhD fellowship. 3.5 years, including monthly stipend, seminars, travel allowances, individual and personal support, and a worldwide network of fellows and alumni.
@@ -127,6 +127,7 @@ cv:
         authors:
           - "QLIFE institute"
         date: 2019
+        url: https://www.edu.bio.ens.psl.eu/spip.php?rubrique54&lang=fr
         awarder: QLIFE institute - ENS de Paris
         summary: Awarded for outstanding international students. 2 years, including monthly stipend, travel allowances, partnership with 180 labs in Paris. Associated with Department of Biology, ENS Paris.
 
@@ -143,7 +144,7 @@ cv:
       - name: Biology
         level: good
         icon: fa-solid fa-hashtag
-        keywords: "Transcriptomic and epigenomic assays - RNA-seq, TT-seq, ATAC-seq, ChIPmentation, Cut&Tag, MCC (Hi-C variant). Molecular biology techniques -  CRISPR-based gene editing, cloning, Western blot, Flow Cytometry. Cell culture - mouse embryonic stem cell culture, cellular differentiation. Microscopy -  Live imaging,Immunofluorescence"
+        keywords: "Transcriptomic and epigenomic assays - RNA-seq, TT-seq, ATAC-seq, ChIPmentation, Cut&Tag, MCC (Hi-C variants). Molecular biology techniques -  CRISPR-based gene editing, cloning, Western blot, Flow Cytometry. Cell culture - mouse embryonic stem cell culture, cellular differentiation. Microscopy -  Live imaging, Immunofluorescence"
       - name: Language, software
         level: good
         keywords: "R, Python, Bash, Snakemake, Nexflow, Git, Macro Fiji, Cluster usage (SLURM), FlowJo; Markdown LaTEX, Inkscape, Affinity Designer, basic Photoshop, Image Analysis with ImageJ"
