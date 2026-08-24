@@ -85,13 +85,13 @@ cv:
       - company: Institut Curie
         position: Master (M2) thesis
         location: Paris, France
-      start_date: 01-2021
-      end_date: 06-2021
-      highlights:
-        - Supervised by Dr. Nicolas Manel.
-        - "[Analysis by ATAC-seq and ChIP-seq of a new virus detection mechanism](https://doi.org/10.1016/j.cell.2025.05.008)"
-        - Nuclear cGAS, accessibility, chromatin, centromere, virus detection
-        - Bioinformatics
+        start_date: 01-2021
+        end_date: 06-2021
+        highlights:
+          - Supervised by Dr. Nicolas Manel.
+          - "[Analysis by ATAC-seq and ChIP-seq of a new virus detection mechanism](https://doi.org/10.1016/j.cell.2025.05.008)"
+          - Nuclear cGAS, accessibility, chromatin, centromere, virus detection
+          - Bioinformatics
         
       - company: Institut Pasteur
         position: Master (M1) thesis
