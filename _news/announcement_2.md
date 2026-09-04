@@ -57,7 +57,7 @@ After the conference dinner, we all went up to the rooftop to enjoy the evening 
 
 
 
-I met so many wonderful researchers, one of whom was **Shikana Browne**, currently a Master's student and intern at EMBL Heidelberg. We had a very interesting discussion about the conference and how support for early-career conference attendance is important. With her permission, I am sharing some quotes from our memorable conversation:
+I met so many wonderful researchers, one of whom was **Shikana Browne**, currently a Master's student and intern at EMBL Heidelberg. She is presenting a poster about "single-cell chromatin profiling to map sex-specific gene regulation in the liver". We had a very interesting discussion about the conference and how support for early-career conference attendance is important. With her permission, I am sharing some quotes from our memorable conversation:
 
 - Is it your first time at this conference?
  
