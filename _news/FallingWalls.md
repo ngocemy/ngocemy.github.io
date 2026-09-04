@@ -5,8 +5,7 @@ date: 2026-09-04
 inline: false
 related_posts: false
 ---
-
-This is such a big moment for me, when I received the invitation to attend the [Falling Wall Science Summit 2026](https://falling-walls.com/science-summit) (as well as the Breakthrough in Physical Sciences Symposium which is integrated in this 4-day-meeting).
+It was such a big moment for me when I received the invitation to attend the [Falling Wall Science Summit 2026](https://falling-walls.com/science-summit) (as well as the Breakthrough in Physical Sciences Symposium which is integrated in this 4-day-meeting).
 
 I am particularly excited about the highlight of the summit - the announcement of the [Science Breakthroughs of the Year](https://falling-walls.com/finalists-2026), which takes place on the final day.
 
