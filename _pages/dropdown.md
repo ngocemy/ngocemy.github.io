@@ -1,6 +1,6 @@
 ---
 layout: page
-title: review
+title: REVIEWS
 nav: true
 nav_order: 5
 dropdown: true
