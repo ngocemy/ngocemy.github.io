@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I was selected to attend the Falling Walls Science Summit 2026 !
-date: 2026-08-21
+date: 2026-09-04
 inline: false
 related_posts: false
 ---
