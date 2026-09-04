@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: <a href='#'>Ph.D in Genome Sciences</a>. “Nothing in life is to be feared, it is only to be understood.” Marie Curie.
 
