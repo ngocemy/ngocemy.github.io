@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am moving to Freiburg for work 🔬🧪📚🔎📖📝 (and to discover the beautiful Black Forest!) 🌲🌿🏔️🥾
+I am moving to Freiburg for work 🔬🧪📚🔎📖 (and to discover the beautiful Black Forest!) 🌲🏔️🥾
