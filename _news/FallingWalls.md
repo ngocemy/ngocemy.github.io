@@ -17,4 +17,4 @@ One of my favorite parts was when she was asked: *"What advice would you give to
 
 So this is the recap: "curiosity & passion --> persistence --> collaboration --> communication --> integrity & respect --> just enjoy the process!"
 
-** Count down to 6 of November! **
+**Count down to 6 of November!**
