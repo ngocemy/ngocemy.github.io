@@ -29,9 +29,9 @@ Every two years, the Transcription and Chromatin meeting takes place in the beau
 
 ![EMBL Advanced Training Centre]({{ '/assets/img/atc.jpg' | relative_url }})
 
-![Conferene room]({{ '/assets/img/room.jpg' | relative_url }})
+![Conferene room]({{ '/assets/img/posts/room.jpg' | relative_url }})
 
-![Live band in ATC]({{ '/assets/img/band.jpg' | relative_url }})
+![Live band in ATC]({{ '/assets/img/posts/band.jpg' | relative_url }})
 
 
 > I have attended this conference 17 times. The field is moving fast.
@@ -56,18 +56,22 @@ After the conference dinner, we all went up to the rooftop to enjoy the evening 
 I met so many wonderful researchers, one of whom was **Shikana Browne**, currently a Master's student and intern at EMBL Heidelberg. We had a very interesting discussion about the conference and how support for early-career conference attendance is important. With her permission, I am sharing some quotes from our memorable conversation:
 
 - Is it your first time at this conference?
+- 
 "Yes, it is my first time at such a big conference, and I am presenting a poster about my research for my Master's diploma. It is very exciting!"
 
 
 - How do you like the conference so far?
+- 
 "It is very niche, with a lot of similar and peripheral work, and a lot of research to be inspired by."
 
 
 - Which talk(s) were the most impressive to you?
+- 
 "I liked the talk from Ralph Grand about 'Single transcription factors dominantly activate essential genes' and the talk from Wendy Bickmore about enhancer position."
 
 
 - How does attending this big conference as a Master's student help your research and career development?
+- 
 "For the poster presentation, I had prepared a lot, and this process helped me to focus better and brought new ideas. This opportunity also helps me to better understand my research and others' in the field of Transcription and Chromatin, and to see new topics and methods."
 
 
